@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (too large for git)
+data/*.zip
+data/bottle/
+data/cable/
+data/hazelnut/
+data/leather/
+data/tile/
+
+# Model checkpoints (large files)
+models/*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
