@@ -49,7 +49,7 @@ The pipeline consists of three phases:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vfm-fewshot-anomaly-detection.git
+git clone https://github.com/pc4807/Capstone_Project.git
 cd vfm-fewshot-anomaly-detection
 ```
 
@@ -198,6 +198,4 @@ Open `notebooks/Ckpt3_DINOv2_Ablation.ipynb` for the DINOv2 block-wise ablation 
 
 This project builds upon the PatchCore framework by Roth et al. (2022) and uses the DINOv2 pretrained model by Meta AI (Oquab et al., 2023). The MVTec AD dataset is provided by MVTec Software GmbH. The AnomalyDINO paper (Damm et al., 2024) served as primary reference for combining DINOv2 with PatchCore.
 
-## License
-
-This project is licensed under the MIT License.
+And special thanks to Teaching Assistant Rajesh Titung, and Professor Zhiqiang Tao for guiding me through this capstone project class.
